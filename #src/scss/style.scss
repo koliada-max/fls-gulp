@@ -8,3 +8,24 @@
 	}
 }
 @import "fonts";
+
+.hero{
+    background-image: url("../img/slide.jpg");
+    background-color: #cccccc; 
+    background-repeat: no-repeat;
+    // width: 1302px;
+    height: 815px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    background-image: url("../img/footer-img.jpg");
+    background-color: #cccccc; 
+    background-repeat: no-repeat;
+    // width: 1260px;
+    height: 540px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
